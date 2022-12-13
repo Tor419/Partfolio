@@ -1,5 +1,6 @@
 # Васильев Иван Сергеевич
-![Иллюстрация к проекту](https://github.com/tor419/Partfolio/raw/origin/img/image.png)
+<img src="resources/image.png" width="200" height="50"/>
+
 Мужчина, 37 лет, родился 28 декабря 1984
 +7 (913) 3040260
 tor419@yandex.ru — предпочитаемый способ связи
