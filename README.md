@@ -40,16 +40,8 @@ QA Engineer
 ### Сибирский государственный индустриальный университет, Новокузнецк
 2014
 
-Металлургия чёрных металлов, Электрометаллургия стали и ферросплавов
-Новокузнецк
-Металлургия черных металлов, электрометаллургия стали и ферросплавов
-
 ## Ключевые навыки
-Знание языков Русский — Родной
-Английский — B1 — Средний
-
-### Навыки
-Postman; Jira; SQL; HTML; CSS; Devtools; Git; Test Design Technics; Test Artifacts; JMeter; Rapid typing 180 CPM; Java; Selenium/Selenid; Docker compose
+Английский B1;Postman; Jira; SQL; HTML; CSS; Devtools; Git; Test Design Technics; Test Artifacts; JMeter; Rapid typing 180 CPM; Java; Selenium/Selenid; Docker compose
 
 ## Дополнительная информация
 Обо мне
