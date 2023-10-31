@@ -32,7 +32,7 @@ Design test, functional testing, UI testing, requirements testing. Writing check
 Декабрь 2006 — Май 2021 14 лет 6 месяцев
 Плавильщик.
 
-## Образование
+## Образование высшее
 ### Нетология
 2023
 QA Engineer
